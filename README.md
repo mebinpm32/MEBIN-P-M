@@ -3,7 +3,7 @@ Programming Challenge: Movie Aggregator
 Part A:  Create a console-based application that accepts movie details like Name, Run Time, Language, Lead Actor and Genre and then export these details into one of the 2 formats, depending on user’s choice - “plain text” or “PDF”. 
 Part B:  Make the application extensible so that it is easy to “plug in” a new format and the application automatically has the capability to export to the new format without making any changes to the application code.
 
-Here the application is written in java language, which is developed using netbeans ide.
+Here the application code is written in java language, which is developed using netbeans ide.
 In order run the file you need to download the file named "challange.rar". Extract and open it with a Netbeans IDE.
 Click on the run build to build the code and click on run button to run the program.
 
