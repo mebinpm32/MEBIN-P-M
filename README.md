@@ -34,7 +34,10 @@ For creating text file, create an object for the PrintWriter class. Specify the 
 Using PrintWriter class the userinputs are printed on the ram and then it is closed to finish the creation.
 
 For creating pdf file,
-function named "pdfmethod" is caleed, which uses an external pdf library called itext.
+function named "pdfmethod" is called, which uses an external pdf library called itext to create pdf file.
+
+
+As said in PART B, for future to support more formats, a function for to create that file is added to the existing code along with a else if condition.
 
 
 
