@@ -30,9 +30,12 @@ If either of the formats matched it will execute the method for creating the cor
 
 For creating plain text file, 
 function named "plaintext" is called, which creates text file using the PrintWriter class.
+For creating text file, create an object for the PrintWriter class. Specify the filename with .txt exension.
+Using PrintWriter class the userinputs are printed on the ram and then it is closed to finish the creation.
 
 For creating pdf file,
 function named "pdfmethod" is caleed, which uses an external pdf library called itext.
+
 
 
 
