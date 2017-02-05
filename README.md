@@ -18,7 +18,7 @@ import java.io.FileOutputStream;
 import java.io.OutputStream;
 
 Above code section import the required libraries for the running the program.
-In the main user inpus are take using datainputstream class. Then these user inputs are stored in string variables.
+In the main user inputs are taken using datainputstream class. Then these user inputs are stored in string variables.
 
 For exporting to required file format. We may ask to the user whether you want text or pdf file.
 Program ask the user to type "text" for plain text and "pdf" for PDF file.
